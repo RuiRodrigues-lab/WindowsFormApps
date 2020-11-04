@@ -1,0 +1,10 @@
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\bin\Debug\DA1_AP02ExemploStrings.exe.config
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\bin\Debug\DA1_AP02ExemploStrings.exe
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\bin\Debug\DA1_AP02ExemploStrings.pdb
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP06ExemploStrings.csprojResolveAssemblyReference.cache
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP02ExemploStrings.Form1.resources
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP02ExemploStrings.Properties.Resources.resources
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP06ExemploStrings.csproj.GenerateResource.cache
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP06ExemploStrings.csproj.CoreCompileInputs.cache
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP02ExemploStrings.exe
+Z:\Dropbox\1819IMPAR\DA1-2018\Aulas Práticas\AP06\Programa 2\DA1_AP06ExemploStrings\obj\Debug\DA1_AP02ExemploStrings.pdb
