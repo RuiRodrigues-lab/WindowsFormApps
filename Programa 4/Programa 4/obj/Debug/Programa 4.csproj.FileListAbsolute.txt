@@ -1,0 +1,10 @@
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\bin\Debug\Programa 4.exe.config
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\bin\Debug\Programa 4.exe
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\bin\Debug\Programa 4.pdb
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa 4.csprojAssemblyReference.cache
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa_4.Form1.resources
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa_4.Properties.Resources.resources
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa 4.csproj.GenerateResource.cache
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa 4.csproj.CoreCompileInputs.cache
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa 4.exe
+C:\Users\us.rrodrigues\source\repos\Programa 4\Programa 4\obj\Debug\Programa 4.pdb
