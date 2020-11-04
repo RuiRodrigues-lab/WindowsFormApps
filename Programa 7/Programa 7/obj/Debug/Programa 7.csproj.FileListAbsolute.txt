@@ -1,0 +1,9 @@
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa 7.csprojAssemblyReference.cache
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa_7.Form1.resources
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa_7.Properties.Resources.resources
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa 7.csproj.GenerateResource.cache
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\bin\Debug\Programa 7.exe.config
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\bin\Debug\Programa 7.exe
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\bin\Debug\Programa 7.pdb
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa 7.exe
+C:\Users\us.rrodrigues\source\repos\Programa 7\Programa 7\obj\Debug\Programa 7.pdb
