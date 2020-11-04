@@ -1,0 +1,10 @@
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\bin\Debug\Programa3.exe.config
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\bin\Debug\Programa3.exe
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\bin\Debug\Programa3.pdb
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.csprojAssemblyReference.cache
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.Form1.resources
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.Properties.Resources.resources
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.csproj.GenerateResource.cache
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.csproj.CoreCompileInputs.cache
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.exe
+C:\Users\us.rrodrigues\source\repos\Programa3\Programa3\obj\Debug\Programa3.pdb
